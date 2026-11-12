@@ -1,0 +1,7 @@
+target/
+.m2/
+data/sample/
+data/downloads/
+.idea/
+*.iml
+.DS_Store
